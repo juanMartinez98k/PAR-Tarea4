@@ -1,0 +1,6 @@
+NewMain.class
+py\una\pol\par\client\ProductoModelo.class
+py\una\pol\par\client\ProductoModelo$1.class
+py\una\pol\par\entity\Product.class
+py\una\pol\par\entity\Categoria.class
+py\una\pol\par\client\RestProductServlet.class
